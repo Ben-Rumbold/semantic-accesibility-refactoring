@@ -17,7 +17,7 @@ https://ben-rumbold.github.io/module-1-challenge/
 
 ## Usage
 
-![alt text](assets/images/Screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
